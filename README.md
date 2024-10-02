@@ -16,9 +16,7 @@ This project focuses on conducting an Exploratory Data Analysis (EDA) of a hotel
 - [Problem Statement](#problem-statement)
 - [Business Objective](#business-objective)
 - [Conclusion](#conclusion)
-- [Repository Structure](#repository-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
